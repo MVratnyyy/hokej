@@ -1,0 +1,78 @@
+{
+    "teams": [
+      {
+        "id": 1,
+        "name": "Česká republika",
+        "group": "A"
+      },
+      {
+        "id": 2,
+        "name": "Slovensko",
+        "group": "A"
+      },
+      {
+        "id": 3,
+        "name": "Švédsko",
+        "group": "B"
+      },
+      {
+        "id": 4,
+        "name": "Finsko",
+        "group": "B"
+      }
+    ],
+    "matches": [
+      {
+        "id": 1,
+        "team1": "Česká republika",
+        "team2": "Slovensko",
+        "score": "3:2",
+        "date": "2024-05-01",
+        "location": "Praha, Česká republika",
+        "players": [
+          {
+            "name": "Jakub Voráček",
+            "team": "Česká republika",
+            "goals": 1
+          },
+          {
+            "name": "David Pastrňák",
+            "team": "Česká republika",
+            "goals": 2
+          },
+          {
+            "name": "Marián Hossa",
+            "team": "Slovensko",
+            "goals": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "team1": "Švédsko",
+        "team2": "Finsko",
+        "score": "1:4",
+        "date": "2024-05-02",
+        "location": "Stockholm, Švédsko",
+        "players": [
+          {
+            "name": "Henrik Lundqvist",
+            "team": "Švédsko",
+            "goals": 1
+          },
+          {
+            "name": "Patrik Laine",
+            "team": "Finsko",
+            "goals": 3
+          },
+          {
+            "name": "Mikko Rantanen",
+            "team": "Finsko",
+            "goals": 1
+          }
+        ]
+      }
+    ]
+  }
+  
+  
